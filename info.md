@@ -20,3 +20,10 @@ export  default sanityClient({
   useCdn: true // `false` if you want to ensure fresh data
 })
 ```
+- then create a repositery on github
+- https://tailwindcss.com/
+- @import url("https://unpkg.com/@tailwindcss/typography@0.2.x/dist/typography.min.css");
+- @import url("https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css");
+- @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+- https://jaketrent.github.io/react-social-icons/
+- npm install react-social-icons
