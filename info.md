@@ -29,3 +29,4 @@ export  default sanityClient({
 - npm install react-social-icons
 - npm i @sanity/image-url
 - npm i @sanity/block-content-to-react
+- sanity deploy
