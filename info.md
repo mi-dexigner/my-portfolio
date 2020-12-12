@@ -27,3 +27,5 @@ export  default sanityClient({
 - @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
 - https://jaketrent.github.io/react-social-icons/
 - npm install react-social-icons
+- npm i @sanity/image-url
+- npm i @sanity/block-content-to-react
