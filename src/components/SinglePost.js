@@ -48,8 +48,8 @@ useEffect(()=>{
                            <h4 className="cursive flex items-center pl-2 text-2xl">{singlePost.name}</h4>
                        </div>
                    </div>
-                   <img src={singlePost.mainImage.asset.url} />
-               </header>
+                   <img src={singlePost.mainImage.asset.url} alt={singlePost.name} />
+               </header> 
                <div className="px-16 lg:px-48 py-12 lg:py-20 prose lg:prose-xl max-w-full">
                   <BlockContent
                   blocks={singlePost.body} 
